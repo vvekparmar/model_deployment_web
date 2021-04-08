@@ -52,7 +52,6 @@ function draw() {
 
 }
 
-// The following comes from https://ml5js.org/docs/posenet-webcam
 // A function to draw ellipses over the detected keypoints
 function drawKeypoints() {
     // Loop through all the poses detected
